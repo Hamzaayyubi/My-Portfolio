@@ -1,16 +1,87 @@
-# React + Vite
+# Hamza Ayyubi — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive personal portfolio website showcasing my skills, projects, training, education, certifications, and experience as a Full Stack Web Developer.
 
-Currently, two official plugins are available:
+## 🚀 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hi, I'm Hamza Ayyubi, a B.Tech Computer Science & Engineering student and Full Stack Web Developer.
 
-## React Compiler
+This portfolio is designed to present my technical skills, featured projects, development journey, certifications, and contact information in a clean and professional interface.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- Responsive design for desktop, tablet, and mobile
+- Modern developer-focused UI
+- Dark / Light mode
+- About Me section
+- Technical Skills section
+- Featured Projects
+- Training & Development
+- Education
+- Certifications
+- Contact section
+- Resume access
+- GitHub and LinkedIn integration
+- Interactive navigation and smooth scrolling
+- Contact form with backend integration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+### Backend
+- Node.js
+- Express.js
+- Nodemailer
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+## 📂 Featured Projects
+
+### 1. Cert-Tracker
+
+A full-stack certification tracking platform that helps users manage certifications, monitor study progress, and organize their learning journey.
+
+**Technologies:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT, REST API
+
+### 2. E-School — Classes 9–12 Learning Platform
+
+An educational web platform designed for students of classes 9–12, providing access to learning resources, courses, study materials, videos, and other educational features.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+## 📜 Certifications
+
+- Centre for Professional Enhancement — Data Structures & Algorithms using C++
+- GEN AI — NASSCOM Skill Developed Program
+- NAPS Associate — UNIVOC Foundation
+
+## 🎓 Education
+
+**Lovely Professional University, Phagwara, Punjab**
+
+B.Tech — Computer Science & Engineering  
+2024 – 2028
+
+## 📞 Contact
+
+- Email: ayyubihamza877@gmail.com
+- GitHub: https://github.com/Hamzaayyubi
+- LinkedIn: https://linkedin.com/in/hamza-ayyubi-540781338/
+
+## 🌐 Portfolio
+
+The portfolio showcases my projects, technical skills, education, certifications, and development journey.
+
+---
+
+### Built with ❤️ by Hamza Ayyubi
